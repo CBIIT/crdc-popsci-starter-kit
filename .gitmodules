@@ -1,0 +1,12 @@
+[submodule "crdc-popsci-ui"]
+	path = crdc-popsci-ui
+	url = https://github.com/CBIIT/crdc-popsci-ui
+[submodule "crdc-popsci-backend"]
+	path = crdc-popsci-backend
+	url = https://github.com/CBIIT/crdc-popsci-backend
+[submodule "ccdi-popsci-dataloader"]
+	path = ccdi-popsci-dataloader
+	url = https://github.com/CBIIT/ccdi-popsci-dataloader
+[submodule "popsci-model"]
+	path = popsci-model
+	url = https://github.com/CBIIT/popsci-model
