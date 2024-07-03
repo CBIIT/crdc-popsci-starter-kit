@@ -10,3 +10,6 @@
 [submodule "popsci-model"]
 	path = popsci-model
 	url = https://github.com/CBIIT/popsci-model
+[submodule "pop-sci-deployments"]
+	path = pop-sci-deployments
+	url = https://github.com/CBIIT/pop-sci-deployments
